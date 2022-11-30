@@ -56,6 +56,3 @@ function respostaTec () {
         paragraph4.textContent = 'Obrigado por participar dessa pesquisa, se esforce ao maximo que você chega longe'
     }
 }
-
-
-    //Caso esteja na área de Front-End, se quer aprender React ou aprender Vue.
